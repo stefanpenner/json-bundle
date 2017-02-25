@@ -1,0 +1,13 @@
+{
+  "name": "json-bundle",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:stefanpenner/json-bundle",
+  "author": "Stefan Penner <stefan.penner@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^2.0.0",
+    "walk-sync": "^0.3.1",
+    "zlib": "^1.0.5"
+  }
+}
